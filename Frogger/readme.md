@@ -26,17 +26,15 @@ For testing I ran through the program multiple times. The only way to quantify m
 
 ## Test Cases
 
-Test Case Number	Coordinates	Expected output	Output
-1	210, 170	Collision!	X: 210, objX: 105
-Y: 170, objY: 170
-X: 210, objWidth: 210
-Y: 170, objHeight: 170
-2	420, 170	Collision!	X: 420, objX: 525
-Y: 170, objY: 170
-X: 420, objWidth: 630
-Y: 170, objHeight: 170
+| Test Case Number	| Coordinates	| Expected output |	Output |
 
-3	525, 0	No output.	No output. There is not a collision. 
+| ------------- |:-------------:| -----:|
+
+| 1 |	210, 170 |	Collision!	X: 210, objX: 105 Y: 170, objY: 170| X: 210, objWidth: 210 Y: 170, objHeight: 170|
+
+| 2	| 420, 170 | Collision!	X: 420, objX: 525 Y: 170, objY: 170 | X: 420, objWidth: 630 Y: 170, objHeight: 170|
+
+| 3	| 525, 0	| No output. |	No output.  | There is not a collision. |
 
 ## Conclusions and difficulty
 
