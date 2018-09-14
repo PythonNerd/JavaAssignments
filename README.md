@@ -1,5 +1,5 @@
 # JavaAssignments
-Projects from Object Oriented Programming. Credit is given to files I have not written.
+Projects from Object Oriented Programming. Credit is given to files I have not written. Permission to post these were given by my professor.
 
 [Polygon](/Polygon) | A simple Polygon class that creates polygons from points, finds the perimeters, average length, and verices, and other methods. 
 
